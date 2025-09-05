@@ -1,0 +1,18 @@
+2025-09-05 10:37:38.399 INFO VideoSDK [0x00002e54] [d:\delivery\projects\cd202212458674\source_project\sdk\sdk\videosdk\videosdk\MultiStreamPlay.h-81] maxReuseNum = 50, durationToDelInstance = 600
+2025-09-05 10:37:38.399 INFO VideoSDK [0x00002e54] [OperSDK.cpp-73] VideoSDK init success
+2025-09-05 10:37:42.205 INFO VideoSDK [0x00002e54] [SingleStreamPlay.cpp-54] CSingleStreamPlay::StartPreview: strUsrmsg is null
+2025-09-05 10:37:42.205 INFO VideoSDK [0x00002e54] [SingleStreamPlay.cpp-65] CSingleStreamPlay::StartPreview: szAKSK is null
+2025-09-05 10:37:42.205 INFO VideoSDK [0x00002e54] [SingleStreamPlay.cpp-69] The instance of CSingleStreamPlay is -1610597072
+2025-09-05 10:37:42.205 INFO VideoSDK [0x00002e54] [SingleStreamPlay.cpp-73] The instance of CSingleStreamPlay is 2128693181744
+2025-09-05 10:37:42.206 INFO VideoSDK [0x00002e54] [StreamLayer.cpp-40] CStreamLayer::StartStream start
+2025-09-05 10:37:54.371 INFO VideoSDK [0x00002e54] [SingleStreamPlay.cpp-1591] SetDemuxModel
+2025-09-05 10:37:54.595 INFO VideoSDK [0x00000d14] [SingleStreamPlay.cpp-2397] The instance of CSingleStreamPlay is -1610597072, the msg type is 1
+2025-09-05 10:37:54.595 INFO VideoSDK [0x00000d14] [SingleStreamPlay.cpp-2401] The instance of CSingleStreamPlay is 2128693181744, the msg type is 1
+2025-09-05 10:38:27.929 INFO VideoSDK [0x00002e54] [SingleStreamPlay.cpp-54] CSingleStreamPlay::StartPreview: strUsrmsg is null
+2025-09-05 10:38:27.930 INFO VideoSDK [0x00002e54] [SingleStreamPlay.cpp-65] CSingleStreamPlay::StartPreview: szAKSK is null
+2025-09-05 10:38:27.930 INFO VideoSDK [0x00002e54] [SingleStreamPlay.cpp-69] The instance of CSingleStreamPlay is -1610597072
+2025-09-05 10:38:27.930 INFO VideoSDK [0x00002e54] [SingleStreamPlay.cpp-73] The instance of CSingleStreamPlay is 2128693181744
+2025-09-05 10:38:27.930 INFO VideoSDK [0x00002e54] [StreamLayer.cpp-40] CStreamLayer::StartStream start
+2025-09-05 10:38:28.200 INFO VideoSDK [0x00002e54] [SingleStreamPlay.cpp-1591] SetDemuxModel
+2025-09-05 10:38:28.341 INFO VideoSDK [0x00005e48] [SingleStreamPlay.cpp-2397] The instance of CSingleStreamPlay is -1610597072, the msg type is 1
+2025-09-05 10:38:28.341 INFO VideoSDK [0x00005e48] [SingleStreamPlay.cpp-2401] The instance of CSingleStreamPlay is 2128693181744, the msg type is 1
